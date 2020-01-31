@@ -53,7 +53,7 @@ main {
 }
 
 #landing-image {
-    background: url("https://images.pexels.com/photos/821749/pexels-photo-821749.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-image: url("https://images.pexels.com/photos/821749/pexels-photo-821749.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
